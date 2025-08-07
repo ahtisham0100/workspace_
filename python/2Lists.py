@@ -107,4 +107,4 @@ print(numbers)  # [5, 4, 3, 2, 1
 
 newList= ["apple", "Banana", "cherry"]
 newList.sort(key=str.lower)  # Sort the list in a case-insensitive manner
-print(newList)  # ['apple', 'Banana', 'cherry']
+print(newList)  # ['apple', 'Banana', 'cherry'] 
